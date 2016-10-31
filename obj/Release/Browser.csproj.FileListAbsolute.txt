@@ -1,0 +1,8 @@
+C:\Users\LemonjaxDev\Desktop\Browser\bin\Release\Browser.exe.config
+C:\Users\LemonjaxDev\Desktop\Browser\bin\Release\Browser.exe
+C:\Users\LemonjaxDev\Desktop\Browser\bin\Release\Browser.pdb
+C:\Users\LemonjaxDev\Desktop\Browser\obj\Release\Browser.Browser.resources
+C:\Users\LemonjaxDev\Desktop\Browser\obj\Release\Browser.Properties.Resources.resources
+C:\Users\LemonjaxDev\Desktop\Browser\obj\Release\Browser.csproj.GenerateResource.Cache
+C:\Users\LemonjaxDev\Desktop\Browser\obj\Release\Browser.exe
+C:\Users\LemonjaxDev\Desktop\Browser\obj\Release\Browser.pdb
